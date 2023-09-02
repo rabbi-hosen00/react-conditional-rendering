@@ -1,12 +1,11 @@
 import React from 'react'
-//import STATE from './STATE'
-import CONDITIONAL_RENDERING from './CONDITIONAL_RENDERING/index'
-
+import EVENT_HANDLER_CLASS from './EVENT_HANDLER_CLASS/index'
+import './style.css'
 
 export default function App() {
   return (
     <div>
-       < CONDITIONAL_RENDERING />
+      < EVENT_HANDLER_CLASS />
        
     </div>
   )
